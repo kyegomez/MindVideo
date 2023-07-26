@@ -5,3 +5,4 @@ Democratization of "Cinematic Mindscapes: High-quality Video Reconstruction from
 https://mind-video.com/
 
 https://arxiv.org/pdf/2305.11675.pdf
+http://naturalscenesdataset.org/
